@@ -1,25 +1,16 @@
 {
   "files": {
-    "main.css": "/GymFinder/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/GymFinder/static/js/main.9b15d9f3.chunk.js",
-    "main.js.map": "/GymFinder/static/js/main.9b15d9f3.chunk.js.map",
-    "runtime-main.js": "/GymFinder/static/js/runtime-main.a8656602.js",
-    "runtime-main.js.map": "/GymFinder/static/js/runtime-main.a8656602.js.map",
-    "static/js/2.c670d99b.chunk.js": "/GymFinder/static/js/2.c670d99b.chunk.js",
-    "static/js/2.c670d99b.chunk.js.map": "/GymFinder/static/js/2.c670d99b.chunk.js.map",
-    "static/js/3.f53d45a7.chunk.js": "/GymFinder/static/js/3.f53d45a7.chunk.js",
-    "static/js/3.f53d45a7.chunk.js.map": "/GymFinder/static/js/3.f53d45a7.chunk.js.map",
-    "index.html": "/GymFinder/index.html",
-    "precache-manifest.3ccca38f3beaf115d825fa84bafe88bd.js": "/GymFinder/precache-manifest.3ccca38f3beaf115d825fa84bafe88bd.js",
-    "service-worker.js": "/GymFinder/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/GymFinder/static/css/main.435d5fe5.chunk.css.map",
-    "static/js/2.c670d99b.chunk.js.LICENSE.txt": "/GymFinder/static/js/2.c670d99b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/GymFinder/static/media/logo.06e73328.svg"
+    "main.css": "/GymPages/static/css/main.d8e27b49.css",
+    "main.js": "/GymPages/static/js/main.97ba3fda.js",
+    "static/js/453.2cb2fd44.chunk.js": "/GymPages/static/js/453.2cb2fd44.chunk.js",
+    "static/media/logo.svg": "/GymPages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GymPages/index.html",
+    "main.d8e27b49.css.map": "/GymPages/static/css/main.d8e27b49.css.map",
+    "main.97ba3fda.js.map": "/GymPages/static/js/main.97ba3fda.js.map",
+    "453.2cb2fd44.chunk.js.map": "/GymPages/static/js/453.2cb2fd44.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8656602.js",
-    "static/js/2.c670d99b.chunk.js",
-    "static/css/main.435d5fe5.chunk.css",
-    "static/js/main.9b15d9f3.chunk.js"
+    "static/css/main.d8e27b49.css",
+    "static/js/main.97ba3fda.js"
   ]
 }
